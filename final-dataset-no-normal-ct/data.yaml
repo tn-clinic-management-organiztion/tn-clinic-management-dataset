@@ -1,0 +1,8 @@
+names:
+- nodule
+- liver tumor
+nc: 2
+path: /storageStudents/nguyenvd/dataset/UIT_MEDICAL_IMAGING/final-dataset-no-normal-ct
+test: images/test
+train: images/train
+val: images/val
