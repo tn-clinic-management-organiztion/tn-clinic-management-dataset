@@ -1,0 +1,11 @@
+names:
+- Brain tumor
+- Glioma
+- Meningioma
+- Pituitary
+- prostate cancer
+nc: 5
+path: /storageStudents/nguyenvd/dataset/UIT_MEDICAL_IMAGING/final-dataset-no-normal-mri
+test: images/test
+train: images/train
+val: images/val
